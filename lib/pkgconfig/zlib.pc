@@ -1,0 +1,13 @@
+prefix=/Users/rachelzhang/opt/anaconda3/envs/word_memorizer
+exec_prefix=/Users/rachelzhang/opt/anaconda3/envs/word_memorizer
+libdir=/Users/rachelzhang/opt/anaconda3/envs/word_memorizer/lib
+sharedlibdir=/Users/rachelzhang/opt/anaconda3/envs/word_memorizer/lib
+includedir=/Users/rachelzhang/opt/anaconda3/envs/word_memorizer/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
