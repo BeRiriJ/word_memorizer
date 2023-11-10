@@ -51,7 +51,7 @@ LEVEL_1数据库(CreateDB.sql))包含四个表格，用户表格、单词表格�
 
     使用Django框架
 
-#####   项目目录结构
+##### 项目目录结构
 
 ```
     Word_memorizer/
@@ -92,3 +92,19 @@ LEVEL_1数据库(CreateDB.sql))包含四个表格，用户表格、单词表格�
 * `migrations/` 文件夹用于存放数据库迁移文件。
 * `templates/` 文件夹用于存放HTML模板。
 * `static/` 文件夹用于存放静态文件，如CSS文件和图像。
+
+### 教程
+
+#### HTML与CSS
+
+LEVEL1前端页面：三个（index.html, stats.html, page_learning_2.html)
+
+index.html为登陆初始界面
+
+stats.html为统计学习时间、数量页面
+
+page_learning_2.html为学习界面
+
+三个页面均包含顶部导航栏
+
+##### STEP 1： 顶部导航栏的制作
