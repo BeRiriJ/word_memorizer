@@ -107,4 +107,9 @@ page_learning_2.html为学习界面
 
 三个页面均包含顶部导航栏
 
-##### STEP 1： 顶部导航栏的制作
+##### STEP 1： html文件配置
+title，link，lang...
+##### STEP 2:  顶部导航栏的制作
+##### STEP 3:  index.html制作
+##### STEP 4:  stats.html制作
+##### STEP 5:  page_learning_2.html制作
